@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://landlifetourandtravels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://landlifetourandtravels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://landlifetourandtravels.com/collections/all.atom"/>
+  <title>LandLife Tour &amp; Travels</title>
+  <updated>2023-10-31T18:24:08+05:30</updated>
+  <author>
+    <name>LandLife Tour &amp; Travels</name>
+  </author>
+  <entry>
+    <id>https://landlifetourandtravels.com/products/7450542571608</id>
+    <published>2023-10-31T18:24:08+05:30</published>
+    <updated>2023-10-31T18:24:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://landlifetourandtravels.com/products/ladakh-tour-package-6-nights-7-days"/>
+    <title>Ladakh tour Package (6 Nights, 7 Days)</title>
+    <s:type></s:type>
+    <s:vendor>LandLife Tour &amp; Travels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0559/3409/1352/files/pexels-photo-3392154.jpg?v=1698756921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LandLife Tour &amp; Travels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Embark on an unforgettable Ladakh adventure with our exclusive tour package. Explore the pristine beauty of the Himalayas, pristine lakes, and ancient monasteries. Our all-inclusive package ensures a hassle-free experience with comfortable accommodations, expert guides, and seamless transportation. Book your Ladakh tour today and make memories that last a lifetime.</span></p>
+<p><strong>Package will also include :<br></strong><span></span></p>
+<ul>
+<li>Dinner and Breakfast</li>
+<li>Hotel Accommodation</li>
+<li>Personal cab for visiting places<br>
+</li>
+<li>One hour shikara ride in Dal Lake</li>
+<li>All toll taxes.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://landlifetourandtravels.com/products/7450542571608</id>
+      <title>Default Title</title>
+      <s:price currency="INR">18000.00</s:price>
+      <s:sku>1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://landlifetourandtravels.com/products/7450541031512</id>
+    <published>2023-10-31T18:20:06+05:30</published>
+    <updated>2023-10-31T18:20:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://landlifetourandtravels.com/products/copy-of-kashmir-winter-tour-package-5-nights-6-days-per-person"/>
+    <title>Kashmir Winter Tour Package (4 nights, 5 days) Per Person</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0559/3409/1352/files/package1_b5b434f3-7c54-400e-8f61-e61a9cc27753.jpg?v=1698756616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong> Kashmir Tour Packages : Grab Exciting Deals | Upto 50% Off</strong></span></p>
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong><br>Places we will visit</strong></span></p>
+<ul>
+<li>Gulmarg</li>
+<li>Sonmarg</li>
+<li>Pahalgam</li>
+<li>Srinagar ( Dal Lake etc)</li>
+</ul>
+<strong>Package will also include :<br></strong>
+<ul>
+<li>Dinner and Breakfast</li>
+<li>Hotel Accommodation</li>
+<li>Personal cab for visiting places<br>
+</li>
+<li>One hour shikara ride in Dal Lake</li>
+<li>All toll taxes.</li>
+</ul>
+<p><strong>4 Nights in Srinagar Hotel</strong><br data-mce-fragment="1"><strong>1 Night in Deluxe Houseboat in Dal Lake.</strong><br></p>
+<p> </p>
+<ul>
+<li>Popular Kashmir Packages</li>
+<li>Kashmir Packages</li>
+<li>People Also Ask About Kashmir Tours</li>
+<li>Kashmir Top Attractions</li>
+<li>Kashmir Travel Guides</li>
+<li>Popular Related Destinations</li>
+<li>Best Domestic Packages</li>
+<li>Best International Packages</li>
+<li>Domestic Honeymoon Packages</li>
+<li>International Honeymoon Packages</li>
+<li>Places to Visit in India</li>
+<li>International Places to Visit</li>
+<li>Things to Do in India</li>
+<li>International Things to Do</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://landlifetourandtravels.com/products/7450541031512</id>
+      <title>Default Title</title>
+      <s:price currency="INR">13000.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://landlifetourandtravels.com/products/7450540048472</id>
+    <published>2023-10-31T18:18:12+05:30</published>
+    <updated>2023-10-31T18:18:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://landlifetourandtravels.com/products/vaishno-devi-tour"/>
+    <title>Vaishno Devi Tour (2 Nights, 3 Days)</title>
+    <s:type></s:type>
+    <s:vendor>LandLife Tour &amp; Travels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0559/3409/1352/files/vaishnodevi.jpg?v=1698756493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LandLife Tour &amp; Travels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong data-mce-fragment="1">Package will also include :<br data-mce-fragment="1"></strong><span data-mce-fragment="1"></span>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Dinner and Breakfast</li>
+<li data-mce-fragment="1">Hotel Accommodation</li>
+<li data-mce-fragment="1">Personal cab for visiting places<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">One hour shikara ride in Dal Lake</li>
+<li data-mce-fragment="1">All toll taxes.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<ul>
+<li>Popular Kashmir Packages</li>
+<li>Kashmir Packages</li>
+<li>People Also Ask About Kashmir Tours</li>
+<li>Kashmir Top Attractions</li>
+<li>Kashmir Travel Guides</li>
+<li>Popular Related Destinations</li>
+<li>Best Domestic Packages</li>
+<li>Best International Packages</li>
+<li>Domestic Honeymoon Packages</li>
+<li>International Honeymoon Packages</li>
+<li>Places to Visit in India</li>
+<li>International Places to Visit</li>
+<li>Things to Do in India</li>
+<li>International Things to Do</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://landlifetourandtravels.com/products/7450540048472</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://landlifetourandtravels.com/products/7444855652440</id>
+    <published>2023-10-26T20:10:18+05:30</published>
+    <updated>2023-10-26T20:10:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://landlifetourandtravels.com/products/kashmir-winter-tour-package-4-nights-5-days"/>
+    <title>Kashmir Winter Tour Package (5 nights, 6 days) Per Person</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0559/3409/1352/files/package1.jpg?v=1698331221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong> Kashmir Tour Packages : Grab Exciting Deals | Upto 50% Off</strong></span></p>
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong><br>Places we will visit</strong></span></p>
+<ul>
+<li>Gulmarg</li>
+<li>Sonmarg</li>
+<li>Pahalgam</li>
+<li>Srinagar ( Dal Lake etc)</li>
+</ul>
+<strong>Package will also include :<br></strong>
+<ul>
+<li>Dinner and Breakfast</li>
+<li>Hotel Accommodation</li>
+<li>Personal cab for visiting places<br>
+</li>
+<li>One hour shikara ride in Dal Lake</li>
+<li>All toll taxes.</li>
+</ul>
+<p><strong>4 Nights in Srinagar Hotel</strong><br data-mce-fragment="1"><strong>1 Night in Deluxe Houseboat in Dal Lake.</strong><br></p>
+<p> </p>
+<ul>
+<li>Popular Kashmir Packages</li>
+<li>Kashmir Packages</li>
+<li>People Also Ask About Kashmir Tours</li>
+<li>Kashmir Top Attractions</li>
+<li>Kashmir Travel Guides</li>
+<li>Popular Related Destinations</li>
+<li>Best Domestic Packages</li>
+<li>Best International Packages</li>
+<li>Domestic Honeymoon Packages</li>
+<li>International Honeymoon Packages</li>
+<li>Places to Visit in India</li>
+<li>International Places to Visit</li>
+<li>Things to Do in India</li>
+<li>International Things to Do</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://landlifetourandtravels.com/products/7444855652440</id>
+      <title>Default Title</title>
+      <s:price currency="INR">15500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
